@@ -1,0 +1,213 @@
+ID,Ontology order,Acronym,Name,Major Region,Voxel Count,Structure Hit with rAAV?,Primary Inj Site,Secondary Inj Site,Represented in Linear Model Matrix,,,,,Page rank
+672,496,CP,Caudoputamen,Striatum,23893,Yes,Yes,,Yes,,,,,0.043386021
+294,735,SCm,"Superior colliculus, motor related",Midbrain,6779,Yes,Yes,,Yes,,,,,0.01959722
+470,707,STN,Subthalamic nucleus,Hypothalamus,204,Yes,Yes,,Yes,,,,,0.017792147
+591,772,CLI,Central linear nucleus raphe,Midbrain,68,Yes,No,Yes,Yes,,,,,0.017728632
+795,743,PAG,Periaqueductal gray,Midbrain,5104,Yes,Yes,,Yes,,,,,0.017235616
+128,731,MRN,Midbrain reticular nucleus,Midbrain,5604,Yes,Yes,,Yes,,,,,0.017039338
+56,498,ACB,Nucleus accumbens,Striatum,4904,Yes,Yes,,Yes,,,,,0.015506548
+194,702,LHA,Lateral hypothalamic area,Hypothalamus,3568,Yes,Yes,,Yes,,,,,0.014688787
+184,7,FRP,"Frontal pole, cerebral cortex",Isocortex,514,Yes,No,Yes,Yes,,,,,0.01344749
+1031,533,GPi,"Globus pallidus, internal segment",Pallidum,324,Yes,No,Yes,Yes,,,,,0.01169266
+993,22,MOs,Secondary motor area,Isocortex,10098,Yes,Yes,,Yes,,,,,0.011490989
+583,480,CLA,Claustrum,Cortical Subplate,885,Yes,Yes,,Yes,,,,,0.01124813
+15,609,PT,Parataenial nucleus,Thalamus,118,Yes,Yes,,Yes,,,,,0.010684433
+985,16,MOp,Primary motor area,Isocortex,11760,Yes,Yes,,Yes,,,,,0.010604867
+961,350,PIR,Piriform area,Olfactory Areas,12933,Yes,Yes,,Yes,,,,,0.010400599
+918,428,ENTl,"Entorhinal area, lateral part",Hippocampal Formation,8409,Yes,Yes,,Yes,,,,,0.010391775
+1044,577,PP,Peripeduncular nucleus,Thalamus,111,Yes,No,Yes,Yes,,,,,0.010270817
+119,260,AIv,"Agranular insular area, ventral part",Isocortex,1120,Yes,No,Yes,Yes,,,,,0.01010535
+639,361,COAa,"Cortical amygdalar area, anterior part",Olfactory Areas,521,Yes,No,Yes,Yes,,,,,0.008883136
+886,280,RSPv,"Retrosplenial area, ventral part",Isocortex,3997,Yes,Yes,,Yes,,,,,0.008498876
+342,535,SI,Substantia innominata,Pallidum,3297,Yes,Yes,,Yes,,,,,0.008433729
+295,485,BLA,Basolateral amygdalar nucleus,Cortical Subplate,1381,Yes,Yes,,Yes,,,,,0.008279923
+628,750,NOT,Nucleus of the optic tract,Midbrain,131,Yes,Yes,,Yes,,,,,0.008043671
+39,196,ACAd,"Anterior cingulate area, dorsal part",Isocortex,2789,Yes,Yes,,Yes,,,,,0.007762748
+422,575,SPFp,"Subparafascicular nucleus, parvicellular part",Thalamus,279,Yes,Yes,,Yes,,,,,0.007609224
+170,583,LGd,Dorsal part of the lateral geniculate complex,Thalamus,605,Yes,Yes,,Yes,,,,,0.007602051
+922,301,PERI,Perirhinal area,Isocortex,1412,Yes,Yes,,Yes,,,,,0.007543186
+754,500,OT,Olfactory tubercle,Striatum,4066,Yes,Yes,,Yes,,,,,0.007263007
+382,391,CA1,Field CA1,Hippocampal Formation,8275,Yes,Yes,,Yes,,,,,0.007194074
+780,492,PA,Posterior amygdalar nucleus,Cortical Subplate,298,Yes,No,Yes,Yes,,,,,0.007002131
+378,91,SSs,Supplemental somatosensory area,Isocortex,5729,Yes,Yes,,Yes,,,,,0.006810764
+685,567,VM,Ventral medial nucleus of the thalamus,Thalamus,665,Yes,Yes,,Yes,,,,,0.006643309
+629,566,VAL,Ventral anterior-lateral complex of the thalamus,Thalamus,1196,Yes,Yes,,Yes,,,,,0.006553115
+136,864,IRN,Intermediate reticular nucleus,Medulla,2735,Yes,Yes,,Yes,,,,,0.006483447
+491,676,MM,Medial mammillary nucleus,Hypothalamus,374,Yes,Yes,,Yes,,,,,0.006476343
+1072,580,MGd,"Medial geniculate complex, dorsal part",Thalamus,206,Yes,Yes,,Yes,,,,,0.006455475
+64,595,AD,Anterodorsal nucleus,Thalamus,155,Yes,No,Yes,Yes,,,,,0.006386531
+409,162,VISl,Lateral visual area,Isocortex,880,Yes,Yes,,Yes,,,,,0.006187341
+178,620,LGv,Ventral part of the lateral geniculate complex,Thalamus,409,Yes,Yes,,Yes,,,,,0.00609864
+302,715,SCs,"Superior colliculus, sensory related",Midbrain,2505,Yes,Yes,,Yes,,,,,0.006052208
+218,586,LP,Lateral posterior nucleus of the thalamus,Thalamus,856,Yes,Yes,,Yes,,,,,0.006038013
+1093,804,PRNc,"Pontine reticular nucleus, caudal part",Pons,3159,Yes,Yes,,Yes,,,,,0.006015125
+146,818,PRNr,Pontine reticular nucleus,Pons,2827,Yes,Yes,,Yes,,,,,0.006014632
+536,517,CEA,Central amygdalar nucleus,Striatum,1236,Yes,Yes,,Yes,,,,,0.005998606
+258,510,LSr,"Lateral septal nucleus, rostral (rostroventral) part",Striatum,2398,Yes,Yes,,Yes,,,,,0.005850834
+173,706,RCH,Retrochiasmatic area,Hypothalamus,234,Yes,No,Yes,Yes,,,,,0.005796498
+1018,134,AUDv,Ventral auditory area,Isocortex,2554,Yes,Yes,,Yes,,,,,0.005783072
+852,874,PARN,Parvicellular reticular nucleus,Medulla,1597,Yes,Yes,,Yes,,,,,0.005703497
+423,396,CA2,Field CA2,Hippocampal Formation,595,Yes,No,Yes,Yes,,,,,0.005681583
+509,470,SUBd,"Subiculum, dorsal part",Hippocampal Formation,1340,Yes,Yes,,Yes,,,,,0.005616529
+385,169,VISp,Primary visual area,Isocortex,6227,Yes,Yes,,Yes,,,,,0.005604139
+541,294,TEa,Temporal association areas,Isocortex,3773,Yes,Yes,,Yes,,,,,0.005599301
+22,287,PTLp,Posterior parietal association areas,Isocortex,3498,Yes,Yes,,Yes,,,,,0.005566826
+589,332,TT,Taenia tecta,Olfactory Areas,1734,Yes,Yes,,Yes,,,,,0.005518445
+596,540,NDB,Diagonal band nucleus,Pallidum,1168,Yes,No,Yes,Yes,,,,,0.005411516
+44,215,ILA,Infralimbic area,Isocortex,1764,Yes,Yes,,Yes,,,,,0.005358043
+1057,98,GU,Gustatory areas,Isocortex,2104,Yes,Yes,,Yes,,,,,0.005347705
+48,202,ACAv,"Anterior cingulate area, ventral part",Isocortex,2418,Yes,Yes,,Yes,,,,,0.005313524
+59,600,IMD,Intermediodorsal nucleus of the thalamus,Thalamus,213,Yes,No,Yes,Yes,,,,,0.005271992
+298,536,MA,Magnocellular nucleus,Pallidum,376,Yes,No,Yes,Yes,,,,,0.00526843
+226,703,LPO,Lateral preoptic area,Hypothalamus,1081,Yes,Yes,,Yes,,,,,0.005217012
+651,835,NTS,Nucleus of the solitary tract,Medulla,604,Yes,Yes,,Yes,,,,,0.005144206
+1029,588,POL,Posterior limiting nucleus of the thalamus,Thalamus,155,Yes,No,Yes,Yes,,,,,0.005144175
+895,307,ECT,Ectorhinal area,Isocortex,3390,Yes,Yes,,Yes,,,,,0.005142091
+223,646,ARH,Arcuate hypothalamic nucleus,Hypothalamus,265,Yes,No,Yes,Yes,,,,,0.00506681
+828,722,ICe,"Inferior colliculus, external nucleus",Midbrain,2991,Yes,Yes,,Yes,,,,,0.004963059
+723,228,ORBl,"Orbital area, lateral part",Isocortex,1853,Yes,Yes,,Yes,,,,,0.004897636
+369,70,SSp-ul,"Primary somatosensory area, upper limb",Isocortex,5406,Yes,Yes,,Yes,,,,,0.00488446
+159,324,AON,Anterior olfactory nucleus,Olfactory Areas,3951,Yes,Yes,,Yes,,,,,0.004861038
+463,401,CA3,Field CA3,Hippocampal Formation,5035,Yes,Yes,,Yes,,,,,0.00485343
+518,474,SUBv,"Subiculum, ventral part",Hippocampal Formation,3823,Yes,Yes,,Yes,,,,,0.004852533
+788,378,PAA,Piriform-amygdalar area,Olfactory Areas,647,Yes,No,Yes,Yes,,,,,0.004815427
+445,843,SPVO,"Spinal nucleus of the trigeminal, oral part",Medulla,594,Yes,Yes,,Yes,,,,,0.004761439
+1011,113,AUDd,Dorsal auditory area,Isocortex,2556,Yes,Yes,,Yes,,,,,0.004729724
+952,482,EPd,"Endopiriform nucleus, dorsal part",Cortical Subplate,2009,Yes,Yes,,Yes,,,,,0.004702864
+374,766,SNc,"Substantia nigra, compact part",Midbrain,431,Yes,No,Yes,Yes,,,,,0.004694967
+1022,532,GPe,"Globus pallidus, external segment",Pallidum,1807,Yes,Yes,,Yes,,,,,0.004664
+362,601,MD,Mediodorsal nucleus of thalamus,Thalamus,1193,Yes,Yes,,Yes,,,,,0.004592059
+1048,861,GRN,Gigantocellular reticular nucleus,Medulla,2972,Yes,Yes,,Yes,,,,,0.004549724
+414,574,SPFm,"Subparafascicular nucleus, magnocellular part",Thalamus,77,Yes,Yes,,Yes,,,,,0.004503757
+88,669,AHN,Anterior hypothalamic nucleus,Hypothalamus,842,Yes,Yes,,Yes,,,,,0.004354539
+215,748,APN,Anterior pretectal nucleus,Midbrain,967,Yes,Yes,,Yes,,,,,0.004335555
+403,522,MEA,Medial amygdalar nucleus,Striatum,1493,Yes,Yes,,Yes,,,,,0.004323682
+214,755,RN,Red nucleus,Midbrain,357,Yes,Yes,,Yes,,,,,0.004315821
+614,708,TU,Tuberal nucleus,Hypothalamus,466,Yes,No,Yes,Yes,,,,,0.00431365
+351,543,BST,Bed nuclei of the stria terminalis,Pallidum,1481,Yes,Yes,,Yes,,,,,0.004264211
+361,77,SSp-tr,"Primary somatosensory area, trunk",Isocortex,4799,Yes,Yes,,Yes,,,,,0.004194214
+483,625,MH,Medial habenula,Thalamus,225,Yes,No,Yes,Yes,,,,,0.004179828
+612,777,NLL,Nucleus of the lateral lemniscus,Pons,753,Yes,Yes,,Yes,,,,,0.004179684
+131,484,LA,Lateral amygdalar nucleus,Cortical Subplate,556,Yes,Yes,,Yes,,,,,0.004160399
+394,155,VISam,Anteromedial visual area,Isocortex,1795,Yes,Yes,,Yes,,,,,0.00413744
+319,489,BMA,Basomedial amygdalar nucleus,Cortical Subplate,1053,Yes,Yes,,Yes,,,,,0.004130263
+1105,521,IA,Intercalated amygdalar nucleus,Striatum,180,Yes,Yes,,Yes,,,,,0.004121617
+262,617,RT,Reticular nucleus of the thalamus,Thalamus,1395,Yes,Yes,,Yes,,,,,0.004093981
+930,616,PF,Parafascicular nucleus,Thalamus,496,Yes,Yes,,Yes,,,,,0.004070603
+1020,587,PO,Posterior complex of the thalamus,Thalamus,1102,Yes,Yes,,Yes,,,,,0.004060353
+946,700,PH,Posterior hypothalamic nucleus,Hypothalamus,697,Yes,Yes,,Yes,,,,,0.004028606
+366,605,SMT,Submedial nucleus of the thalamus,Thalamus,202,Yes,No,Yes,Yes,,,,,0.004002148
+972,208,PL,Prelimbic area,Isocortex,1790,Yes,Yes,,Yes,,,,,0.003995751
+830,652,DMH,Dorsomedial nucleus of the hypothalamus,Hypothalamus,484,Yes,Yes,,Yes,,,,,0.003947946
+599,613,CM,Central medial nucleus of the thalamus,Thalamus,390,Yes,Yes,,Yes,,,,,0.003868758
+217,891,SUV,Superior vestibular nucleus,Medulla,360,Yes,No,Yes,Yes,,,,,0.003863231
+111,254,AIp,"Agranular insular area, posterior part",Isocortex,1348,Yes,Yes,,Yes,,,,,0.003831983
+7,781,PSV,Principal sensory nucleus of the trigeminal,Pons,1093,Yes,Yes,,Yes,,,,,0.00379827
+155,598,LD,Lateral dorsal nucleus of thalamus,Thalamus,947,Yes,Yes,,Yes,,,,,0.003764589
+1096,593,AMd,"Anteromedial nucleus, dorsal part",Thalamus,359,Yes,Yes,,Yes,,,,,0.003762587
+531,749,MPT,Medial pretectal area,Midbrain,104,Yes,Yes,,Yes,,,,,0.003752187
+1052,767,PPN,Pedunculopontine nucleus,Midbrain,458,Yes,No,Yes,Yes,,,,,0.003575767
+507,314,MOB,Main olfactory bulb,Olfactory Areas,16978,Yes,Yes,,Yes,,,,,0.003535874
+1037,461,POST,Postsubiculum,Hippocampal Formation,789,Yes,Yes,,Yes,,,,,0.003515316
+749,729,VTA,Ventral tegmental area,Midbrain,747,Yes,Yes,,Yes,,,,,0.00349918
+181,610,RE,Nucleus of reunions,Thalamus,716,Yes,Yes,,Yes,,,,,0.003465785
+926,441,ENTm,"Entorhinal area, medial part, dorsal zone",Hippocampal Formation,3106,Yes,Yes,,Yes,,,,,0.003456733
+581,541,TRS,Triangular nucleus of septum,Pallidum,159,Yes,Yes,,Yes,,,,,0.003451365
+1002,120,AUDp,Primary auditory area,Isocortex,2689,Yes,Yes,,Yes,,,,,0.003449428
+575,615,CL,Central lateral nucleus of the thalamus,Thalamus,285,Yes,No,Yes,Yes,,,,,0.003426761
+104,248,AId,"Agranular insular area, dorsal part",Isocortex,2364,Yes,Yes,,Yes,,,,,0.00341332
+246,730,RR,"Midbrain reticular nucleus, retrorubral area",Midbrain,401,Yes,No,Yes,Yes,,,,,0.003390003
+879,273,RSPd,"Retrosplenial area, dorsal part",Isocortex,2738,Yes,Yes,,Yes,,,,,0.003364199
+402,148,VISal,Anterolateral visual area,Isocortex,1981,Yes,Yes,,Yes,,,,,0.003354202
+1084,465,PRE,Presubiculum,Hippocampal Formation,1309,Yes,Yes,,Yes,,,,,0.003337209
+329,49,SSp-bfd,"Primary somatosensory area, barrel field",Isocortex,10306,Yes,Yes,,Yes,,,,,0.003323896
+604,817,NI,Nucleus incertus,Pons,125,Yes,No,Yes,Yes,,,,,0.003260177
+523,657,MPO,Medial preoptic area,Hypothalamus,903,Yes,Yes,,Yes,,,,,0.003249407
+345,63,SSp-m,"Primary somatosensory area, mouth",Isocortex,2924,Yes,Yes,,Yes,,,,,0.003235395
+693,695,VMH,Ventromedial hypothalamic nucleus,Hypothalamus,456,Yes,Yes,,Yes,,,,,0.003234056
+726,407,DG,Dentate gyrus,Hippocampal Formation,6177,Yes,Yes,,Yes,,,,,0.0032257
+898,802,PCG,Pontine central gray,Pons,652,Yes,Yes,,Yes,,,,,0.003198479
+616,754,CUN,Cuneiform nucleus,Midbrain,330,Yes,Yes,,Yes,,,,,0.00319831
+647,365,COAp,"Cortical amygdalar area, posterior part",Olfactory Areas,1915,Yes,Yes,,Yes,,,,,0.003168556
+746,241,ORBvl,"Orbital area, ventrolateral part",Isocortex,1556,Yes,Yes,,Yes,,,,,0.003168395
+718,569,VPL,Ventral posterolateral nucleus of the thalamus,Thalamus,923,Yes,Yes,,Yes,,,,,0.00315888
+398,794,SOC,Superior olivary complex,Pons,819,Not covered,No,No,Yes,,,,,0.003146211
+867,782,PB,Parabrachial nucleus,Pons,832,Yes,Yes,,Yes,,,,,0.003125685
+23,515,AAA,Anterior amygdalar area,Striatum,624,Yes,Yes,,Yes,,,,,0.003093409
+337,56,SSp-ll,"Primary somatosensory area, lower limb",Isocortex,3254,Yes,Yes,,Yes,,,,,0.002944447
+255,591,AV,Anteroventral nucleus of thalamus,Thalamus,385,Yes,Yes,,Yes,,,,,0.002882345
+96,828,DCO,Dorsal cochlear nucleus,Medulla,564,Yes,Yes,,Yes,,,,,0.002784654
+566,383,TR,Postpiriform transition area,Olfactory Areas,1069,Yes,Yes,,Yes,,,,,0.002732557
+814,344,DP,Dorsal peduncular area,Olfactory Areas,335,Yes,Yes,,Yes,,,,,0.002722527
+206,897,RM,Nucleus raphe magnus,Medulla,134,Yes,Yes,,Yes,,,,,0.002712106
+931,803,PG,Pontine gray,Pons,705,Yes,No,Yes,Yes,,,,,0.002710361
+894,267,RSPagl,"Retrosplenial area, lateral agranular part",Isocortex,937,Yes,Yes,,Yes,,,,,0.002695116
+731,234,ORBm,"Orbital area, medial part",Isocortex,1024,Yes,Yes,,Yes,,,,,0.002685003
+677,105,VISC,Visceral area,Isocortex,1793,Yes,Yes,,Yes,,,,,0.00266645
+661,853,VII,Facial motor nucleus,Medulla,660,Yes,Yes,,Yes,,,,,0.002642828
+733,571,VPM,Ventral posteromedial nucleus of the thalamus,Thalamus,1301,Yes,Yes,,Yes,,,,,0.002630596
+634,751,NPC,Nucleus of the posterior commissure,Midbrain,263,Yes,Yes,,Yes,,,,,0.00261708
+429,841,SPVC,"Spinal nucleus of the trigeminal, caudal part",Medulla,806,Yes,Yes,,Yes,,,,,0.002602576
+609,576,SPA,Subparafascicular area,Thalamus,73,Yes,No,Yes,Yes,,,,,0.002566534
+989,983,FN,Fastigial nucleus,Cerebellar Nuclei,337,Yes,Yes,,Yes,,,,,0.002516016
+574,809,TRN,Tegmental reticular nucleus,Pons,669,Yes,Yes,,Yes,,,,,0.002503313
+966,483,EPv,"Endopiriform nucleus, ventral part",Cortical Subplate,487,Yes,No,Yes,Yes,,,,,0.002494277
+437,842,SPVI,"Spinal nucleus of the trigeminal, interpolar part",Medulla,1707,Yes,Yes,,Yes,,,,,0.002487038
+564,539,MS,Medial septal nucleus,Pallidum,691,Yes,Yes,,Yes,,,,,0.002468466
+970,877,PGRNd,"Paragigantocellular reticular nucleus, dorsal part",Medulla,215,Yes,No,Yes,Yes,,,,,0.002466176
+1107,873,MDRNv,"Medullary reticular nucleus, ventral part",Medulla,1031,Yes,Yes,,Yes,,,,,0.002448478
+978,878,PGRNl,"Paragigantocellular reticular nucleus, lateral part",Medulla,692,Yes,Yes,,Yes,,,,,0.002427574
+135,856,AMB,Nucleus ambiguus,Medulla,143,Yes,No,Yes,Yes,,,,,0.002409965
+38,633,PVH,Paraventricular hypothalamic nucleus,Hypothalamus,283,Yes,No,Yes,Yes,,,,,0.002371788
+820,721,ICd,"Inferior colliculus, dorsal nucleus",Midbrain,1149,Yes,Yes,,Yes,,,,,0.002361859
+1007,950,SIM,Simple lobule,Cerebellar Cortex,5218,Yes,Yes,,Yes,,,,,0.002349846
+381,728,SNr,"Substantia nigra, reticular part",Midbrain,1241,Yes,Yes,,Yes,,,,,0.002340847
+741,572,VPMpc,"Ventral posteromedial nucleus of the thalamus, parvicellular part",Thalamus,157,Yes,No,Yes,Yes,,,,,0.002332617
+998,499,FS,Fundus of striatum,Striatum,331,Yes,No,Yes,Yes,,,,,0.002276792
+100,770,IPN,Interpeduncular nucleus,Midbrain,257,Yes,Yes,,Yes,,,,,0.002246768
+846,985,DN,Dentate nucleus,Cerebellar Nuclei,250,Yes,Yes,,Yes,,,,,0.002185221
+235,867,LRN,Lateral reticular nucleus,Medulla,562,Yes,Yes,,Yes,,,,,0.002171396
+91,984,IP,Interposed nucleus,Cerebellar Nuclei,529,Yes,Yes,,Yes,,,,,0.00214116
+83,863,IO,Inferior olivary complex,Medulla,567,Yes,No,Yes,Yes,,,,,0.002124722
+307,870,MARN,Magnocellular reticular nucleus,Medulla,734,Yes,Yes,,Yes,,,,,0.002114985
+353,42,SSp-n,"Primary somatosensory area, nose",Isocortex,1358,Yes,No,Yes,Yes,,,,,0.002080317
+968,945,NOD,Nodulus (X),Cerebellar Cortex,1276,Yes,No,Yes,Yes,,,,,0.002079107
+149,608,PVT,Paraventricular nucleus of the thalamus,Thalamus,615,Yes,Yes,,Yes,,,,,0.002043721
+619,355,NLOT,Nucleus of the lateral olfactory tract,Olfactory Areas,389,Yes,Yes,,Yes,,,,,0.002022008
+515,684,MPN,Medial preoptic nucleus,Hypothalamus,215,Yes,Yes,,Yes,,,,,0.002019588
+1079,581,MGv,"Medial geniculate complex, ventral part",Thalamus,446,Yes,Yes,,Yes,,,,,0.001980559
+186,626,LH,Lateral habenula,Thalamus,307,Yes,Yes,,Yes,,,,,0.001943356
+920,907,CENT,Central lobule,Cerebellar Cortex,3839,Yes,Yes,,Yes,,,,,0.001925184
+452,656,MEPO,Median preoptic nucleus,Hypothalamus,167,Yes,No,Yes,Yes,,,,,0.001920778
+533,183,VISpm,posteromedial visual area,Isocortex,1265,Yes,No,Yes,Yes,,,,,0.001913262
+1041,971,PFL,Paraflocculus,Cerebellar Cortex,5283,Yes,Yes,,Yes,,,,,0.001910261
+928,916,CUL,Culmen,Cerebellar Cortex,6635,Yes,Yes,,Yes,,,,,0.001889459
+209,888,LAV,Lateral vestibular nucleus,Medulla,494,Yes,Yes,,Yes,,,,,0.001873924
+679,812,CS,Superior central nucleus raphe,Pons,584,Yes,Yes,,Yes,,,,,0.001800735
+126,662,PVp,"Periventricular hypothalamic nucleus, posterior part",Hypothalamus,149,Yes,No,Yes,Yes,,,,,0.001770514
+534,808,SUT,Supratrigeminal nucleus,Pons,164,Yes,No,Yes,Yes,,,,,0.001723328
+347,664,SBPV,Subparaventricular zone,Hypothalamus,156,Yes,No,Yes,Yes,,,,,0.00171961
+225,890,SPIV,Spinal vestibular nucleus,Medulla,513,Yes,Yes,,Yes,,,,,0.001704486
+811,720,ICc,"Inferior colliculus, central nucleus",Midbrain,1684,Yes,Yes,,Yes,,,,,0.001672794
+843,457,PAR,Parasubiculum,Hippocampal Formation,1104,Yes,Yes,,Yes,,,,,0.001667929
+1049,975,FL,Flocculus,Cerebellar Cortex,1348,Yes,Yes,,Yes,,,,,0.001638339
+202,889,MV,Medial vestibular nucleus,Medulla,1178,Yes,Yes,,Yes,,,,,0.001620716
+250,509,LSc,"Lateral septal nucleus, caudal (caudodorsal) part",Striatum,690,Yes,No,Yes,Yes,,,,,0.001531145
+1104,594,AMv,"Anteromedial nucleus, ventral part",Thalamus,99,Yes,Yes,,Yes,,,,,0.001487152
+169,882,PRP,Nucleus prepositus,Medulla,356,Yes,Yes,,Yes,,,,,0.00147839
+621,810,V,Motor nucleus of trigeminal,Pons,493,Yes,No,Yes,Yes,,,,,0.001470741
+101,829,VCO,Ventral cochlear nucleus,Medulla,854,Yes,Yes,,Yes,,,,,0.001426057
+133,663,PVpo,"Periventricular hypothalamic nucleus, preoptic part",Hypothalamus,94,Yes,Yes,,Yes,,,,,0.001423605
+872,773,DR,Dorsal nucleus raphe,Midbrain,145,Yes,Yes,,Yes,,,,,0.001385428
+980,688,PMd,Dorsal premammillary nucleus,Hypothalamus,84,Yes,Yes,,Yes,,,,,0.001345829
+1025,963,PRM,Paramedian lobule,Cerebellar Cortex,3243,Yes,Yes,,Yes,,,,,0.001332903
+425,176,VISpl,Posterolateral visual area,Isocortex,679,Yes,Yes,,Yes,,,,,0.001305597
+1088,582,MGm,"Medial geniculate complex, medial part",Thalamus,175,Yes,Yes,,Yes,,,,,0.001222634
+1098,872,MDRNd,"Medullary reticular nucleus, dorsal part",Medulla,491,Yes,Yes,,Yes,,,,,0.001199361
+773,893,XII,Hypoglossal nucleus,Medulla,315,Yes,Yes,,Yes,,,,,0.001142117
+266,511,LSv,"Lateral septal nucleus, ventral part",Striatum,113,Yes,No,Yes,Yes,,,,,0.001117134
+189,612,RH,Rhomboid nucleus,Thalamus,221,Yes,No,Yes,Yes,,,,,0.000980613
+151,320,AOB,Accessory olfactory bulb,Olfactory Areas,571,Yes,Yes,,Yes,,,,,0.000953373
+1017,954,AN,Ansiform lobule,Cerebellar Cortex,9044,Yes,Yes,,Yes,,,,,0.000913083
+310,512,SF,Septofimbrial nucleus,Striatum,230,Yes,No,Yes,Yes,,,,,0.000800431
+951,937,PYR,Pyramus (VIII),Cerebellar Cortex,551,Yes,Yes,,Yes,,,,,0.00060776
